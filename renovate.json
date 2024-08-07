@@ -1,0 +1,9 @@
+{
+  "enabledManagers": ["dockerfile"],
+  "dockerfile": {
+    "enabled": true,
+    "ignoreTests": true,
+    "automergeType": "pr",
+    "automerge": true
+  }
+}
